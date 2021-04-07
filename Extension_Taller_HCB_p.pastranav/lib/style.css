@@ -1,0 +1,15 @@
+h1 {
+  color: rgb(102, 27, 52);
+  text-align: center;
+}
+
+h3 {
+  color: rgb(88,24,69);
+  text-align: left;
+}
+
+body {
+  color: rgb(199,0,57);
+  align-items: center;
+  background-color: rgba(234, 255, 45, 0.418);
+}
